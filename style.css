@@ -151,3 +151,14 @@ header{
     text-align: end;
     padding: 15px;
 }
+
+.app_image{
+    height: 70px;
+    font-size: 15px;
+    line-height: 19px;
+    margin: 6px;
+
+}
+.facebook_icon{
+    height: 60px;
+}
