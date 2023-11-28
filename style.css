@@ -146,6 +146,11 @@ header{
     padding-bottom: 5px;
 
 }
+.footer_icon{
+    font-size: 40px;
+    display: flex;
+    justify-content: space-around;
+}
 .copyright{
     color:#94969f;
     text-align: end;
